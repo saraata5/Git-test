@@ -1,0 +1,5 @@
+resource "aws_key_pair" "Git-test" {
+  key_name   = "Git-test"
+  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDsgp3jOY3vF3wFV3Ffg2HrK+7lLNn9gjdn1/REzs2t7rMJruBXGrLE/Ju8lDHC6n1XxiHEZhCUv4QMcJy8+HoI5Zmqda/nRRnbsWfI2rCfezExG2AQr5tOJBZBBp+dAUF6VQ7N9M8aKKEzpgXRx2JbBPQhcGmBgyNza3a94zLXnq+A+U/MKYkslHu9ausSDvjlUZtj0k5YBGtWbTFR47LodjH6JRdk7CFs1BiueRd19IzQI7ofbZiV1chN1HdK6g+Rk4srwKnGmJLaNaNzGlaMpehg5M4f9LtPJnrN7PWefzLdzVgajJ1qLKqTHeBCKQMPeE7YRbNcH9xnna0s+4kMHrmVvwBA5Sfy54UZ6cEZF3Z0ZvlKpmsZP2NY+eEHB+qGlX9g/EBbHl/DNZ3Ra3wOE7zmEDMtWNeeyHIL4yTFeKFy2rI/mr0ilzoY8W7a3J1hjYVXtPQsbisDlzHL+/q22mJlLAcVjIbrtpYGpzfHpGUu29aRvrBUDbRsftujr0U= imac@iMacs-iMac.local"
+  
+  }
